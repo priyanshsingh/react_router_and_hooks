@@ -1,3 +1,5 @@
+<img src = "https://miro.medium.com/max/1400/1*YG2YmEJb9yGZvN81T9v_OQ.jpeg">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
