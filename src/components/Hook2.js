@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 export default function Hook2() {
-    const [color, newColor] = useState("Dark Blue")
+    const [color, newColor] = useState("Dark Blue.")
 
     const clickRed = () => {
         newColor("Red")
