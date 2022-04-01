@@ -11,10 +11,8 @@ const Hooks = () => {
         <body>
             <h1 align = "center" style={{color: "white"}}>{ val }</h1>            
             <button className="btn"  style={{
-                margin: 0,
-                position: "absolute",
-                top: 100,
-                left: 730,
+                marginLeft: "50%",
+                fontSize:'1.2rem'
             }} onClick={changeName}>Click me</button>
         </body>
     </div>
